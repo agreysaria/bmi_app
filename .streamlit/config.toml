@@ -1,0 +1,8 @@
+#.streamlit/config.toml
+
+[theme]
+primaryColor = "#1E90FF"          # Light blue
+backgroundColor = "#0E1117"       # Dark background
+secondaryBackgroundColor = "#262730" # Dark grey for widgets background
+textColor = "#FFFFFF"             # White text
+font = "sans serif"               # Default font, you can change to "serif", "monospace", etc.
